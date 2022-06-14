@@ -52,4 +52,4 @@ Getting better at Javascript and learning React.
 ## Author
 - Instagram - [jwatson_16](https://www.instagram.com/jwatson_16)
 - Frontend Mentor - [@JoshLander18](https://www.frontendmentor.io/profile/JoshLander18)
-- Youtube - [Underrated Music](youtube.com/c/UnderratedMusicUR)
+- Youtube - [Underrated Music](https://www.youtube.com/c/UnderratedMusicUR)
