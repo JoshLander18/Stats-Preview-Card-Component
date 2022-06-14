@@ -52,7 +52,7 @@ body {
     display: grid;
     place-items: center;
     grid-template-columns: auto auto;
-    height: 320px;
+    height: 390px;
     width: 950px;
     border-radius: 5px;
     overflow: hidden;
@@ -79,7 +79,8 @@ body {
     margin: 0;
     padding: 0;
     letter-spacing: 0.1px;
-    max-width: 261px;
+    font-size: 30px;
+    width: 390px;
 }
 
 .card-main-heading span {
@@ -93,13 +94,13 @@ body {
 }
 
 .card-main-paragraph p {
-    font-size: 11px;
+    font-size: 12px;
     font-family: var(--Lexend-Deca);
     color: var(--transparent-white-stat-headings);
     margin: 0;
     padding: 0;
     line-height: 1.7em;
-    max-width: 270px;
+    max-width: 300px;
 }
 
 .card-stat-headings {
@@ -120,6 +121,7 @@ body {
     font-family: var(--Inter);
     margin: 0;
     padding: 0;
+    font-size: 20px;
 }
 
 .card-stat-headings p {
