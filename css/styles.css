@@ -52,7 +52,7 @@ body {
     display: grid;
     place-items: center;
     grid-template-columns: auto auto;
-    height: 390px;
+    height: 400px;
     width: 950px;
     border-radius: 5px;
     overflow: hidden;
